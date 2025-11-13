@@ -1,9 +1,6 @@
 # 01: Single-File Web Applications
 
-## Deskripsi
-Praktikum ini membahas cara membuat aplikasi web Pyramid sederhana dalam satu file Python tanpa memerlukan struktur package yang kompleks.
-
-## Analisis Kode
+## Analisis
 **Baris 11: `if __name__ == '__main__':`**
 Cara Python menjalankan kode hanya ketika file dijalankan langsung (bukan di-import). Jadi kode di dalam blok ini hanya jalan waktu kita ketik python app.py
 
